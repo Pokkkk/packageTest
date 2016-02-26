@@ -1,6 +1,5 @@
-package com.kriyatma.nodesocket;
+package com.test.nodesocket;
 
-import android.content.Context;
 import android.graphics.Bitmap;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;

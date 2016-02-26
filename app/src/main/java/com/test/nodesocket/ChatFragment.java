@@ -1,4 +1,4 @@
-package com.kriyatma.nodesocket;
+package com.test.nodesocket;
 
 import android.app.Activity;
 import android.app.Fragment;

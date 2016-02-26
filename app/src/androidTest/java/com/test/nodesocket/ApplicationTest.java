@@ -1,4 +1,4 @@
-package com.kriyatma.nodesocket;
+package com.test.nodesocket;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
