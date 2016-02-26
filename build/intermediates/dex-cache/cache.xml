@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\bit-user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\bit-user\Downloads\android-socket.io-client-demo-master\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-48924ea7fc3d850e45996a7577e69826d986d294.jar" />
+    </item>
+    <item
+        jar="C:\Users\bit-user\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp-ws\2.3.0\7896d229b6aa7884552ab9c23de54c7eb0de8203\okhttp-ws-2.3.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7896d229b6aa7884552ab9c23de54c7eb0de8203">
+        <dex dex="C:\Users\bit-user\Downloads\android-socket.io-client-demo-master\app\build\intermediates\pre-dexed\debug\okhttp-ws-2.3.0-6b9b0dac16477449325844e0662e679e1bda3640.jar" />
+    </item>
+    <item
+        jar="C:\Users\bit-user\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.3.0\1b355f73402020c5a0dcca58affc3ec3dfeabac1\okio-1.3.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1b355f73402020c5a0dcca58affc3ec3dfeabac1">
+        <dex dex="C:\Users\bit-user\Downloads\android-socket.io-client-demo-master\app\build\intermediates\pre-dexed\debug\okio-1.3.0-8a07e1a8dc7e66e483314f9fcb21b9f8f714338a.jar" />
+    </item>
+    <item
+        jar="C:\Users\bit-user\.gradle\caches\modules-2\files-2.1\com.github.nkzawa\socket.io-client\0.5.0\7d40c590385ba95b34920eb89c986757a79968af\socket.io-client-0.5.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7d40c590385ba95b34920eb89c986757a79968af">
+        <dex dex="C:\Users\bit-user\Downloads\android-socket.io-client-demo-master\app\build\intermediates\pre-dexed\debug\socket.io-client-0.5.0-fc3d2e29bf73762e9d758d177233e644080e712f.jar" />
+    </item>
+    <item
+        jar="C:\Users\bit-user\Downloads\android-socket.io-client-demo-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="C:\Users\bit-user\Downloads\android-socket.io-client-demo-master\app\build\intermediates\pre-dexed\debug\classes-bd8aae0089a4d69c98cd5c1da5d5e11efe300166.jar" />
+    </item>
+    <item
+        jar="C:\Users\bit-user\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.3.0\2e7bc7033dc2c8423e661224171b3133fb155b28\okhttp-2.3.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2e7bc7033dc2c8423e661224171b3133fb155b28">
+        <dex dex="C:\Users\bit-user\Downloads\android-socket.io-client-demo-master\app\build\intermediates\pre-dexed\debug\okhttp-2.3.0-7a4f1295f5d6136ab525f60f4bfb9c6630b58e87.jar" />
+    </item>
+    <item
+        jar="C:\Users\bit-user\.gradle\caches\modules-2\files-2.1\com.github.nkzawa\engine.io-client\0.5.0\72f54ba32a0d735630ebc33a5c39e14a5dd45492\engine.io-client-0.5.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="72f54ba32a0d735630ebc33a5c39e14a5dd45492">
+        <dex dex="C:\Users\bit-user\Downloads\android-socket.io-client-demo-master\app\build\intermediates\pre-dexed\debug\engine.io-client-0.5.0-ef7f60a1f372dd7a1767a34c86c0edeb49409d6e.jar" />
+    </item>
+    <item
+        jar="C:\Users\bit-user\Downloads\android-socket.io-client-demo-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\bit-user\Downloads\android-socket.io-client-demo-master\app\build\intermediates\pre-dexed\debug\classes-43c65b7f98966d049cc208643e28fec379f6fd05.jar" />
+    </item>
+    <item
+        jar="C:\Users\bit-user\Downloads\android-socket.io-client-demo-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\bit-user\Downloads\android-socket.io-client-demo-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-ad207177658228008d55a1d1ee9fe1a76ad20f11.jar" />
+    </item>
+    <item
+        jar="C:\Users\bit-user\Downloads\android-socket.io-client-demo-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\bit-user\Downloads\android-socket.io-client-demo-master\app\build\intermediates\pre-dexed\debug\classes-f6cde915764bb43defbdce89acbe8c207869e99f.jar" />
+    </item>
+
+</items>
